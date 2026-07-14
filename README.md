@@ -90,4 +90,4 @@ https://zebayshofficial.vercel.app/
 
 GitHub: https://github.com/mohsin03nehan
 
-LinkedIn: https://linkedin.com/in/mohsin-nehan
+LinkedIn: https://www.linkedin.com/in/mohsin-nehan-abb435411/
