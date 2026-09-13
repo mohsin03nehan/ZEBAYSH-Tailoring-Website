@@ -78,16 +78,8 @@ The website is optimized for:
 
 ---
 
-## 🔗 Live Website
-
-https://zebayshofficial.vercel.app/
-
----
-
 ## 👨‍💻 Author
 
 **Muhammad Mohsin Nehan**
 
-GitHub: https://github.com/mohsin03nehan
-
-LinkedIn: https://www.linkedin.com/in/mohsin-nehan-abb435411/
+LinkedIn: https://www.linkedin.com/in/mohsin-nehan-/
